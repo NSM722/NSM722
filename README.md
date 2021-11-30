@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NSM722
+- 👋 Hi, I’m Natalie Sakina Mbatha - @NSM722
 - 👀 I’m interested in Python programming and Javascript
 - 🌱 I’m currently learning Full stack web development at Frauenloop.org
 - 💞️ I’m looking to collaborate on any python projects for beginners and web development 
