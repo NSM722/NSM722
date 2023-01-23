@@ -6,8 +6,6 @@
 
 🛠  I’m looking to collaborate on any HTML/CSS/Tailwind CSS/JavaScript/React/Python Web projects
 
-<img width="100%" alt="Github_bg" src="https://user-images.githubusercontent.com/83452606/210840380-01fa8c97-cae6-4974-a723-0b1516e17799.png">
-
 ### 🔗 Tech stacks 🔗
 ___
 
