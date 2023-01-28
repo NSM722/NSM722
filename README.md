@@ -2,7 +2,7 @@
 
 🎓 I’m a Web developer cohort at [Frauenloop - Women in Tech Europe](https://www.frauenloop.org/ "Frauenloop - A  diverse network of women tech professionals")
 
-👩🏾‍💻 I’m interested in Frontend Web Development however not shying away from acquiring skills in Backend Technologies and upskilling as a whole
+👩🏾‍💻 I’m interested in Frontend Web Development
 
 🛠  I’m looking to collaborate on any HTML/CSS/Tailwind CSS/JavaScript/React/Python Web projects
 
