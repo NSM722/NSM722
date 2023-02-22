@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img width="75%" height="auto" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"  />
+  <img width="100%" height="auto" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"  />
 </div>
 
 ###
