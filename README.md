@@ -2,7 +2,9 @@
 
 ###
 
-<h2 align="left">🎓 I am a Web developer cohort at Frauenloop - Women In Tech Europe</h2>
+<h2 align="left">🎓 I am a Web Development Cohort at Frauenloop - Women In Tech Europe</h2> 
+
+<p>Read More on <a href="https://www.frauenloop.org/" target="_blank"> Frauenloop</a></p>
 
 ###
 
