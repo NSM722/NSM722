@@ -1,10 +1,10 @@
 <h1 align="left">Hello there 👋🏾,</h1>
 
+<h4 align="left">🧑🏾‍💻 I am a Frontend Web Developer who enjoys building beautiful and functional user interfaces and looking to expand my skills to become a well-rounded developer capable of delivering full-stack solutions.</h4>
+
 ###
 
-<h2 align="left">🎓 I am a Web Development Cohort at Frauenloop - Women In Tech Europe</h2> 
-
-<p>Read More on <a href="https://www.frauenloop.org/" target="_blank"> Frauenloop</a></p>
+<h4 align="left">🎓 Former Web Development Cohort at <a href="https://www.frauenloop.org/" target="_blank">Frauenloop - Women In Tech Europe</a></h4> 
 
 ###
 
@@ -14,17 +14,9 @@
 
 ###
 
-<p align="left">🧑🏾‍💻 I'm currently focused on Frontend Web Development and enjoy building beautiful and functional user interfaces. 
-<br>
-I'm also looking to expand my skills to become a well-rounded developer capable of delivering full-stack solutions.</p>
-
-###
-
 <p align="left">🛠  I'm always on the lookout for opportunities to learn and grow in both frontend and backend development.
 <br>
 	
-👉🏾If you're working on any HTML/CSS/Tailwind CSS/JavaScript/React/Python Web projects and need an extra hand, I would be more than happy to collaborate with you.</p>
-
 ###
 
 <h2 align="left">🔗 Tech stacks 🔗</h2>
