@@ -1,12 +1,15 @@
 <h1 align="left">Hello there 👋🏾,</h1>
 
 <h4 align="left">🧑🏾‍💻 I am a Frontend Web Developer who enjoys building beautiful and functional user interfaces and looking to expand my skills to become a well-rounded developer capable of delivering full-stack solutions.</h4>
-
+	
 ###
 
 <h4 align="left">🎓 Web Development Cohort @<a href="https://www.frauenloop.org/" target="_blank">Frauenloop - Women In Tech Europe</a></h4> 
 
 ###
+
+<p align="left">🛠  I'm always on the lookout for opportunities to learn and grow in both frontend and backend development.
+<br>
 
 <div align="left">
   <img width="100%" height="auto" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"  />
@@ -14,8 +17,6 @@
 
 ###
 
-<p align="left">🛠  I'm always on the lookout for opportunities to learn and grow in both frontend and backend development.
-<br>
 	
 ###
 
