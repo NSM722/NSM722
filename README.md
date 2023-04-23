@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">🎓 Former Web Development Cohort at <a href="https://www.frauenloop.org/" target="_blank">Frauenloop - Women In Tech Europe</a></h4> 
+<h4 align="left">🎓 Web Development Cohort @<a href="https://www.frauenloop.org/" target="_blank">Frauenloop - Women In Tech Europe</a></h4> 
 
 ###
 
