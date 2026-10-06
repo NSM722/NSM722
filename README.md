@@ -1,6 +1,8 @@
 <h1 align="left">Hello there 👋🏾,</h1>
 
-<p align="left">🧑🏾‍💻 I am a Frontend Web Developer who enjoys building beautiful and functional user interfaces and looking to expand my skills to become a well-rounded developer capable of delivering full-stack solutions.</p>
+<p align="left">🧑🏾‍💻 Quality Assurance Engineer with a software development background, focused on building reliable, testable and user-centred digital products.</p>
+
+<p align="left"> My experience spans software testing, test automation, frontend development, data tracking and network requests debugging, with a growing focus on AI-assisted testing and the intersection of software quality, engineering and security, exploring how modern approaches can improve the reliability, efficiency, and security of software.</p>
 	
 ###
 
@@ -17,6 +19,9 @@
 
 ###
 
+<h2 align="left">🛠️ Current Toolkit </h2>
+
+Quality Engineering · Test Automation · HTTP Traffic Analysis & Debugging · Data Tracking · Proxyman · AI-Assisted Testing
 	
 ###
 
